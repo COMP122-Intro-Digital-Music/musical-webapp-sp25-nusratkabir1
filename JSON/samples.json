@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "ocean",
+    "file": "samples/ocean.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "bell",
+    "file": "samples/bell.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "wind",
+    "file": "samples/wind.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
